@@ -10,6 +10,9 @@ Python 3.8+
 Sympy
 Numpy
 
+Execution of the project:
+![Project Execution](images/Kuka_youbot_manipulation.gif)
+
 The folder final_task contains the coppeliaSim scene, code and video of execution of pick and place task of robot.
 Instructions to run:
 1. Open the scene: final_task_scene.ttt in coppeliaSim.
